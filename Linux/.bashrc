@@ -127,6 +127,7 @@ else
 fi
 unset color_prompt force_color_prompt
 
+# command for moving backwards through directories
 b() {
     local dir=""
     local arg=""
